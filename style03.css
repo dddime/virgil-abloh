@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+a:link{color: #000000;}
+a:visited{color: #000000;}
+a:hover{color: #BE3DE5;}
+a:active{color: #000000;}
+
+header{}
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: #F4F4F4;
+}
+nav ul{
+    width: 1168px;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul .logo{
+padding-left: 30px;
+padding-right: 138px;
+width: 100px;
+height: 100px;
+padding-top: 13px;
+}
+nav ul .logo img{
+    width: 210px;
+}
+.bt{
+    display: block;
+    padding: 30px 10px;
+    text-align: left;
+    font-family: 'Noto+Sans+KR' sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 27px;
+    letter-spacing: -0.6px;
+}
+.wrap{width: 100%;
+     margin: 0 auto;
+    }
+  .box1{
+     width: 1100px; height: 500px; margin: 0 auto;
+  }
+  .inbox9{
+    position: relative;
+    top: 100px;
+    background-position: center;
+  }
+ .sb2{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .txt9{
+     font-family: 'Noto+Sans+KR' sans-serif;
+     font-size: 50px;
+     font-weight: 700;
+     word-spacing: normal;
+     letter-spacing: -1px;
+     word-spacing: 3px;
+     text-align: center;
+     color: #D623F7;
+  }
+  .inbox1{
+    position: relative;
+    width: 512px; top: 200px; left: 294px;
+    height: 285px;
+    overflow: hidden;
+  }
+  .sb1{
+    width: 1100px; left: 115px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .box2{
+    width: 1100px; height: 526px; margin: 0 auto;
+    position: relative;
+  }
+  .inbox2{
+    position: absolute;
+    width: 1100px;
+    background-position: center;
+    height: 263px;
+  }
+  .rb1{
+    width: 512px; top: 290px; left: 294px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .rb2{
+    width: 352px; top: 370px; left: 404px;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .txt1{
+    font-family: 'Noto+Sans+KR' sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    word-spacing: -1px;
+    text-align: center;
+  }
+  .rb3{
+    width: 1100px; height: 142px; top: 467px;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .txt2{
+    font-family: 'Noto+Sans+KR' sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: -1px;
+    line-height: 25px;
+    word-spacing: 3px;
+    text-align: center;
+    color: #000000
+  }
+  .box3{
+    width: 1100px; height: 940px; margin: 0 auto;
+    overflow: hidden;
+  }
+  .inbox3{
+    height: 940px;
+    position: relative;
+  }
+  
+  .zb1{
+    width: 572px; top: 350px; left: 264px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .zb2{
+    width: 340px; top: 554px; left: 380px;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+  .txt5{
+    font-family: 'Noto+Sans+KR' sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    word-spacing: -1px;
+    text-align: center;
+   }
+   .zb3{
+    width: 1100px; top: 641px;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   .txt6{
+   font-family: 'Noto+Sans+KR' sans-serif;
+   font-size: 20px;
+   font-weight: 300;
+   letter-spacing: -1px;
+   line-height: 25px;
+   word-spacing: 3px;
+   text-align: center;
+   color: #000000
+   }
+   .box4{
+    width: 1100px; height: 574px; margin: 0 auto;
+    overflow: hidden;
+  }
+  .inbox4{
+    height: 574px;
+    position: relative;
+  }
+  .cb1{
+    width: 414px; top: 64px; left: 343px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .cb2{
+    width: 381x; top: 232px; left: 381px;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+  .txt7{
+    font-family: 'Noto+Sans+KR' sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    word-spacing: -1px;
+    text-align: center;
+   }
+   .cb3{
+    width: 1100px; top: 319px;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   .txt8{
+   font-family: 'Noto+Sans+KR' sans-serif;
+   font-size: 20px;
+   font-weight: 300;
+   letter-spacing: -1px;
+   line-height: 25px;
+   word-spacing: 3px;
+   text-align: center;
+   color: #000000
+   }
+   .box5{
+    width: 1100px; height: 930px; margin: 0 auto;
+    overflow: hidden;
+  }
+  .inbox5{
+    height: 930px;
+    position: relative;
+  }
+  .vd1{
+    width: 450px; top: 417px; left: 325px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   .txt3{
+    font-family: 'Noto+Sans+KR' sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    word-spacing: -1px;
+    text-align: center;
+   }
+
+  .vd2{
+    width: 1100px; top: 500px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .txt4{
+  font-family: 'Noto+Sans+KR' sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: -1px;
+  line-height: 25px;
+  word-spacing: 3px;
+  text-align: center;
+  color: #000000
+  }
+  .vd3{
+    width: 414px; top: 201px; left: 372px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .box6{
+    height: 50px;
+  }
+  .inbox6{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+  }
+  .qb1{
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
